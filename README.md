@@ -8,7 +8,7 @@ Este proyecto es una practica realizada en el bootcamp de Tecnolochicas Pro, don
 ### *¿Qué construí?*
 Se realizó una interfaz identica a la interfaz de Google a través de las herramientas aprendidas en el curso de Tecnolochicas Pro ✨✨
 Esta interfaz estuvo dividida en 3 secciones de HTML principales:
-1.Sección Header
+1. Sección Header
 2. Sección Main
 3. Sección Footer
 
