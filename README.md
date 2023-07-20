@@ -12,5 +12,5 @@ Esta interfaz estuvo dividida en 3 secciones de HTML principales:
 3. Sección Footer
 
 ##Objetivos 
-//Aprendizaje// Práctica// Introducción a HTML y CSS así como sus elementos y propiedades 
+// Aprendizaje // Práctica// Introducción a HTML y CSS así como sus elementos y propiedades 
 ![image](https://github.com/geraldine022/ClonGoogle/assets/79392334/32e40a9d-3f81-4445-b758-c74913652cec)
