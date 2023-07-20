@@ -4,6 +4,7 @@ Clonación de interfaz de google usando HTML &amp;&amp; CSS
 ## INTRODUCCIÓN 
 Este proyecto es una practica realizada en el bootcamp de Tecnolochicas Pro, donde se analizaron los componentes de Google y se replicaron a través de tecnologías como HTML y CSS. 
 //¿Por qué utilizamos HTML y CSS? 
+La combinación de HTML y CSS permite crear páginas web con una estructura clara y bien organizada, a la vez que ofrece un diseño atractivo y una experiencia de usuario consistente.
 
 ### *¿Qué construí?*
 Se realizó una interfaz identica a la interfaz de Google a través de las herramientas aprendidas en el curso de Tecnolochicas Pro ✨✨
