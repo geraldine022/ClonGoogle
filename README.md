@@ -5,7 +5,7 @@ Clonación de interfaz de google usando HTML &amp;&amp; CSS
 Este proyecto es una practica realizada en el bootcamp de Tecnolochicas Pro, donde se analizaron los componentes de Google y se replicaron a través de tecnologías como HTML y CSS. 
 //¿Por qué utilizamos HTML y CSS? 
 
-### ¿Qué construí?*
+### *¿Qué construí?*
 Se realizó una interfaz identica a la interfaz de Google a través de las herramientas aprendidas en el curso de Tecnolochicas Pro ✨✨
 Esta interfaz estuvo dividida en 3 secciones de HTML principales:
 1.Sección Header
